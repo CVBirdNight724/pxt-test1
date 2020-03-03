@@ -1,0 +1,13 @@
+
+{
+    "name": "testEXT1",
+    "version": "1",
+    "description": "Test Extension",
+    "license": "MIT",
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
