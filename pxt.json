@@ -1,7 +1,7 @@
 
 {
-    "name": "testEXT1",
-    "version": "1",
+    "name": "pxt-testEXT1",
+    "version": "0.0.1",
     "description": "Test Extension",
     "license": "MIT",
     "dependencies": {
@@ -11,6 +11,5 @@
         "README.md",
         "main.ts"
     ],
-    "public": true,
-    "preferredEditor": "tsprj"
+    "public": true
 }
