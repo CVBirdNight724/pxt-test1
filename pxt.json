@@ -4,6 +4,9 @@
     "version": "1",
     "description": "Test Extension",
     "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
     "files": [
         "README.md",
         "main.ts"
